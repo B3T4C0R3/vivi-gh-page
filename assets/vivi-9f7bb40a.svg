@@ -1,18 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="394" height="176" viewBox="0 0 394 176">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectangle_1" data-name="Rectangle 1" width="394" height="176" transform="translate(113 82)" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="394" height="176" transform="translate(113 82)" fill="#8fe3ee" stroke="#8fe3ee" stroke-width="1"/>
     </clipPath>
     <clipPath id="clip-path-2">
       <path id="Path_1" data-name="Path 1" d="M147.7,14H102.924L81.007,61.739,59.129,14H13.321L80.4,130,147.7,14Z" transform="translate(-13.1 -14)"/>
     </clipPath>
-    <linearGradient id="linear-gradient" x1="-1.614" y1="4.133" x2="-1.606" y2="4.133" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#008b3d"/>
-      <stop offset="0.1" stop-color="#008b3d"/>
-      <stop offset="1" stop-color="#56af31"/>
-    </linearGradient>
     <clipPath id="clip-path-5">
-      <circle id="Ellipse_1" data-name="Ellipse 1" cx="17" cy="17" r="17" fill="#fff" stroke="#707070" stroke-width="1"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="17" cy="17" r="17" fill="#8fe3ee" stroke="#8fe3ee" stroke-width="1"/>
     </clipPath>
     <clipPath id="clip-path-6">
       <path id="Path_1-3" data-name="Path 1" d="M102,14Zm45.7,0H102L62.7,99.4,80.4,130Z" transform="translate(-62.7 -14)"/>
@@ -22,35 +17,35 @@
     <g id="Group_43" data-name="Group 43">
       <g id="logo-verbond" transform="translate(99.9 115.1)">
         <g id="Group_1" data-name="Group 1" transform="translate(13.1 14)" clip-path="url(#clip-path-2)">
-          <path id="Path_3" data-name="Path 3" d="M0,0H134.6V116H0Z" fill="url(#linear-gradient)"/>
+          <path id="Path_3" data-name="Path 3" d="M0,0H134.6V116H0Z" fill="#8fe3ee"/>
         </g>
         <g id="Group_2" data-name="Group 2" transform="translate(13.1 14)" clip-path="url(#clip-path-2)">
-          <path id="Path_4" data-name="Path 4" d="M0,0H134.6V116H0Z" fill="url(#linear-gradient)"/>
+          <path id="Path_4" data-name="Path 4" d="M0,0H134.6V116H0Z" fill="#8fe3ee"/>
         </g>
       </g>
       <g id="logo-verbond-2" data-name="logo-verbond" transform="translate(302.679 115)">
         <g id="Group_1-2" data-name="Group 1" transform="translate(13.1 14)" clip-path="url(#clip-path-2)">
-          <path id="Path_3-2" data-name="Path 3" d="M0,0H134.6V116H0Z" fill="url(#linear-gradient)"/>
+          <path id="Path_3-2" data-name="Path 3" d="M0,0H134.6V116H0Z" fill="#8fe3ee"/>
         </g>
       </g>
       <g id="Group_19" data-name="Group 19" transform="translate(219.53 52.573)">
         <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(42.47 29.427)" clip-path="url(#clip-path-5)">
-          <path id="Path_6" data-name="Path 6" d="M0,0H91.528V78.88H0Z" transform="translate(-28.88 -20.01)" fill="url(#linear-gradient)"/>
+          <path id="Path_6" data-name="Path 6" d="M0,0H91.528V78.88H0Z" transform="translate(-28.88 -20.01)" fill="#8fe3ee"/>
         </g>
       </g>
       <g id="logo-verbond-3" data-name="logo-verbond" transform="translate(225.97 152.395) rotate(-25)">
         <g id="Group_1-3" data-name="Group 1" clip-path="url(#clip-path-6)">
-          <path id="Path_2" data-name="Path 2" d="M0,0H134.6V116H0Z" transform="translate(-49.6 0)" fill="url(#linear-gradient)"/>
+          <path id="Path_2" data-name="Path 2" d="M0,0H134.6V116H0Z" transform="translate(-49.6 0)" fill="#8fe3ee"/>
         </g>
       </g>
       <g id="logo-verbond-4" data-name="logo-verbond" transform="translate(427.97 152.395) rotate(-25)">
         <g id="Group_1-4" data-name="Group 1" clip-path="url(#clip-path-6)">
-          <path id="Path_2-2" data-name="Path 2" d="M0,0H134.6V116H0Z" transform="translate(-49.6 0)" fill="url(#linear-gradient)"/>
+          <path id="Path_2-2" data-name="Path 2" d="M0,0H134.6V116H0Z" transform="translate(-49.6 0)" fill="#8fe3ee"/>
         </g>
       </g>
       <g id="Group_41" data-name="Group 41" transform="translate(421.53 52.573)">
         <g id="Mask_Group_1-2" data-name="Mask Group 1" transform="translate(42.47 29.427)" clip-path="url(#clip-path-5)">
-          <path id="Path_6-2" data-name="Path 6" d="M0,0H91.528V78.88H0Z" transform="translate(-28.88 -20.01)" fill="url(#linear-gradient)"/>
+          <path id="Path_6-2" data-name="Path 6" d="M0,0H91.528V78.88H0Z" transform="translate(-28.88 -20.01)" fill="#8fe3ee"/>
         </g>
       </g>
     </g>
